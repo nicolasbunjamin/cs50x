@@ -1,0 +1,14 @@
+The program behaves per the examples below.
+
+$ ./filter -g infile.bmp outfile.bmp
+$ ./filter -s infile.bmp outfile.bmp
+$ ./filter -r infile.bmp outfile.bmp
+$ ./filter -b infile.bmp outfile.bmp
+$ ./filter -e infile.bmp outfile.bmp
+
+G: greyscale (turns image black, white, and grey)
+S: sepia (turns image reddish/brownish)
+R: reverse (mirror/horizontally flip)
+B: blur
+E: edge detection
+
