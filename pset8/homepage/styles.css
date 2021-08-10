@@ -1,0 +1,37 @@
+main
+{
+    /* Scroll horizontally as needed */
+    overflow-x: auto;
+
+    /* Center contents */
+    text-align: center;
+}
+
+table
+{
+    /* Center table */
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#id-selector-1
+{
+    color: blue;
+}
+
+#id-selector-2
+{
+    color: red;
+}
+
+#id-selector-3
+{
+    color: gray;
+}
+
+.class-selector
+{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    color: lightgray;
+}
